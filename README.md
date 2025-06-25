@@ -35,14 +35,6 @@ I'm an experienced **IT Support Technician** with a passion for technology and s
 
 ---
 
-## 🏆 Achievements
-
-[![Pull Shark](https://github.com/skills/pull-shark/achievements/pull-shark.png)](https://github.com/users/JuanMiguelVC/achievements/pull-shark)
-<br>
-<sub>Pull Shark badge for making pull requests!</sub>
-
----
-
 ## 📈 Let's Connect!
 
 I'm always open to sharing knowledge, collaborating on projects, and connecting with like-minded tech enthusiasts. Feel free to reach out!
